@@ -1,0 +1,2060 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Insurance Agency\n"
+"POT-Creation-Date: 2015-12-20 01:45+0100\n"
+"PO-Revision-Date: 2015-12-20 01:46+0100\n"
+"Last-Translator: \n"
+"Language-Team: rayoflightthemes.com <admin@rayoflightthemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x;_n:1,2;_n_noop:1,2;"
+"esc_html__;esc_html_x;esc_html_e;exc_html_n:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../plugins\n"
+"X-Poedit-SearchPath-2: ../plugins/rt-unyson-framework-customization/"
+"extensions/shortcodes\n"
+"X-Poedit-SearchPath-3: ../plugins/rt-insurance-agency-theme-functions\n"
+"X-Poedit-SearchPath-4: ../page-templates\n"
+"X-Poedit-SearchPath-5: ../metabox\n"
+"X-Poedit-SearchPath-6: ../metabox/meta-box-plugin\n"
+"X-Poedit-SearchPath-7: ../plugins/rt-unyson-framework-customization/"
+"extensions/shortcodes/shortcodes/button1\n"
+"X-Poedit-SearchPath-8: ../plugins/rt-unyson-framework-customization/"
+"extensions/shortcodes/shortcodes/add-shortcodes-here\n"
+"X-Poedit-SearchPath-9: ../plugins/rt-unyson-framework-customization/"
+"extensions/shortcodes/shortcodes/circle-service-icon-center\n"
+"X-Poedit-SearchPath-10: ../plugins/rt-unyson-framework-customization/"
+"extensions/shortcodes/shortcodes/circle-service-icon-center-left\n"
+"X-Poedit-SearchPath-11: ../plugins/rt-unyson-framework-customization/"
+"extensions/shortcodes/shortcodes/main-headline\n"
+"X-Poedit-SearchPath-12: ../plugins/rt-unyson-framework-customization/"
+"extensions/shortcodes/shortcodes/one-counter\n"
+"X-Poedit-SearchPath-13: ../plugins/rt-unyson-framework-customization/"
+"extensions/shortcodes/shortcodes/service-five-columns\n"
+"X-Poedit-SearchPath-14: ../plugins/rt-unyson-framework-customization/"
+"extensions/shortcodes/shortcodes/service-four-columns\n"
+"X-Poedit-SearchPath-15: ../plugins/rt-unyson-framework-customization/"
+"extensions/shortcodes/shortcodes/service-one-column\n"
+"X-Poedit-SearchPath-16: ../plugins/rt-unyson-framework-customization/"
+"extensions/shortcodes/shortcodes/service-six-columns\n"
+"X-Poedit-SearchPath-17: ../plugins/rt-unyson-framework-customization/"
+"extensions/shortcodes/shortcodes/service-small1\n"
+"X-Poedit-SearchPath-18: ../plugins/rt-unyson-framework-customization/"
+"extensions/shortcodes/shortcodes/service-small2\n"
+"X-Poedit-SearchPath-19: ../plugins/rt-unyson-framework-customization/"
+"extensions/shortcodes/shortcodes/service-small3\n"
+"X-Poedit-SearchPath-20: ../plugins/rt-unyson-framework-customization/"
+"extensions/shortcodes/shortcodes/service-small4\n"
+"X-Poedit-SearchPath-21: ../plugins/rt-insurance-agency-theme-functions/php\n"
+"X-Poedit-SearchPath-22: ../plugins/unyson-framework-customizations\n"
+"X-Poedit-SearchPath-23: ../plugins/rt-unyson-framework-customization/"
+"extensions/shortcode/shortcode/service-small5\n"
+"X-Poedit-SearchPath-24: ../plugins/rt-unyson-framework-customization/"
+"extensions/shortcode/shortcode/service-small6\n"
+"X-Poedit-SearchPath-25: ../plugins/rt-unyson-framework-customization/"
+"extensions/shortcode/shortcode/service-three-columns\n"
+"X-Poedit-SearchPath-26: ../plugins/rt-unyson-framework-customization/"
+"extensions/shortcode/shortcode/service-two-columns\n"
+"X-Poedit-SearchPath-27: ../plugins/rt-unyson-framework-customization/"
+"extensions/shortcode/shortcode/button2\n"
+
+#: ../author.php:16
+#, php-format
+msgid "Post By: %s"
+msgstr ""
+
+#: ../button2.php:11
+msgid "more"
+msgstr ""
+
+#: ../category.php:16
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:338
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../class-tgm-plugin-activation.php:368
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:399
+#: ../class-tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:400
+#: ../class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:828
+#: ../class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:935
+#: ../class-tgm-plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1116
+#: ../class-tgm-plugin-activation.php:2828
+msgid "and"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1881
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2235
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2283
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../class-tgm-plugin-activation.php:2286
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../class-tgm-plugin-activation.php:2289
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../class-tgm-plugin-activation.php:2371
+msgid "unknown"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2491
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2495
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2500
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:3370
+#: ../class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:3370
+#: ../class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:3376
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../comments.php:33
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:34
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:35
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:39
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:47
+msgid "Join the Discussion"
+msgstr ""
+
+#: ../content-none.php:7
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:9
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:11
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:14
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../functions.php:141
+msgid "on"
+msgstr ""
+
+#: ../functions.php:166
+msgid "Menu for front page (single page website)"
+msgstr ""
+
+#: ../functions.php:169
+msgid "Menu for inner pages (multipage website)"
+msgstr ""
+
+#: ../functions.php:293
+msgid "Copyright text"
+msgstr ""
+
+#: ../functions.php:299
+msgid "Copyright Details"
+msgstr ""
+
+#: ../functions.php:310 ../functions.php:322
+msgid "Color switch"
+msgstr ""
+
+#: ../functions.php:315
+msgid "Default blue"
+msgstr ""
+
+#: ../functions.php:316
+msgid "Green"
+msgstr ""
+
+#: ../functions.php:317
+msgid "Orange"
+msgstr ""
+
+#: ../functions.php:318
+msgid ""
+"Check this only if you want to use/modify less file. Make sure wp-less "
+"plugin is active."
+msgstr ""
+
+#: ../functions.php:332 ../functions.php:337
+msgid "Logo"
+msgstr ""
+
+#: ../functions.php:334
+msgid ""
+"Upload a logo to replace the default site name and description in the "
+"header, in jpg or png format only."
+msgstr ""
+
+#: ../functions.php:349
+msgid "Inner pages title background"
+msgstr ""
+
+#: ../functions.php:351
+msgid "Upload image for inner pages title background in jpg or png format only"
+msgstr ""
+
+#: ../functions.php:354
+msgid "Title background"
+msgstr ""
+
+#: ../functions.php:411
+msgid "Main Blog Sidebar"
+msgstr ""
+
+#: ../functions.php:413
+msgid "Appears in posts and pages sidebar"
+msgstr ""
+
+#: ../functions.php:421
+msgid "Footer Second"
+msgstr ""
+
+#: ../functions.php:423 ../functions.php:433 ../functions.php:442
+msgid "Appears in footer"
+msgstr ""
+
+#: ../functions.php:431
+msgid "Footer Third"
+msgstr ""
+
+#: ../functions.php:440
+msgid "Footer Forth"
+msgstr ""
+
+#: ../functions.php:449
+msgid "Header First"
+msgstr ""
+
+#: ../functions.php:451 ../functions.php:460
+msgid "Appears in header"
+msgstr ""
+
+#: ../functions.php:458
+msgid "Header Second"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/common.php:48
+msgid "Documentation"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/common.php:49
+msgid "Extensions"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/field.php:249
+msgid "+ Add more"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/autocomplete.php:18
+#: ../metabox/meta-box-plugin/inc/fields/autocomplete.php:83
+#: ../metabox/meta-box-plugin/inc/fields/autocomplete.php:100
+#: ../metabox/meta-box-plugin/inc/fields/file.php:168
+#: ../metabox/meta-box-plugin/inc/fields/image.php:136
+msgid "Delete"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/checkbox.php:95
+msgid "Yes"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/checkbox.php:95
+msgid "No"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/file-input.php:40
+#: ../metabox/meta-box-plugin/inc/fields/select.php:207
+msgid "Select"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/file-input.php:42
+#: ../metabox/meta-box-plugin/inc/fields/media.php:164
+msgid "Remove"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/file.php:98
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/file.php:111
+msgid "Upload Files"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/file.php:112
+msgid "+ Add new file"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/file.php:169
+#: ../metabox/meta-box-plugin/inc/fields/image.php:137
+#: ../metabox/meta-box-plugin/inc/fields/media.php:165
+msgid "Edit"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/image-advanced.php:35
+#: ../metabox/meta-box-plugin/inc/fields/media.php:163
+msgid "+ Add Media"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/image.php:70
+#: ../metabox/meta-box-plugin/inc/fields/thickbox-image.php:34
+msgid "Upload Images"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/image.php:71
+msgid "+ Add new image"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/map.php:46
+msgid "Find Address"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/media.php:166
+msgid "View"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/media.php:167
+msgid " file"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/media.php:168
+msgid " files"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/media.php:169
+msgid "No Title"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/oembed.php:62
+msgid "Embed HTML not available."
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/oembed.php:84
+msgid "Preview"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/plupload-image.php:105
+msgid "Drop images here"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/plupload-image.php:106
+msgid "or"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/plupload-image.php:107
+msgid "Select Files"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/plupload-image.php:182
+msgid "Allowed Image Files"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/post.php:67
+msgid "Select a post"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/post.php:71
+#: ../metabox/meta-box-plugin/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/select.php:207
+msgid "All"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/select.php:207
+msgid "None"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/fields/user.php:49
+msgid "Select an user"
+msgstr ""
+
+#: ../metabox/meta-box-plugin/inc/validation.php:43
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ../metabox/registered-meta-boxes.php:44
+msgid "Sidebar"
+msgstr ""
+
+#: ../metabox/registered-meta-boxes.php:58
+msgid "Sidebar in post"
+msgstr ""
+
+#: ../metabox/registered-meta-boxes.php:63
+msgid "add sidebar in post"
+msgstr ""
+
+#: ../metabox/registered-meta-boxes.php:64
+msgid "remove sidebar from post"
+msgstr ""
+
+#: ../metabox/registered-meta-boxes.php:80
+msgid "Page section width and background color"
+msgstr ""
+
+#: ../metabox/registered-meta-boxes.php:89
+msgid "Check/uncheck this for boxed/wide layout"
+msgstr ""
+
+#: ../metabox/registered-meta-boxes.php:97
+msgid "Section background color"
+msgstr ""
+
+#: ../metabox/registered-meta-boxes.php:101
+msgid "white"
+msgstr ""
+
+#: ../metabox/registered-meta-boxes.php:102
+msgid "light grey"
+msgstr ""
+
+#: ../metabox/registered-meta-boxes.php:103
+msgid "first color"
+msgstr ""
+
+#: ../metabox/registered-meta-boxes.php:104
+msgid "second color"
+msgstr ""
+
+#: ../metabox/registered-meta-boxes.php:105
+msgid "second color 2"
+msgstr ""
+
+#: ../metabox/registered-meta-boxes.php:113
+msgid "Check/uncheck this for section space (top)"
+msgstr ""
+
+#: ../metabox/registered-meta-boxes.php:121
+msgid "Check/uncheck this for section space (bottom)"
+msgstr ""
+
+#: ../metabox/registered-meta-boxes.php:137
+msgid "Team member information"
+msgstr ""
+
+#: ../metabox/registered-meta-boxes.php:147
+#: ../metabox/registered-meta-boxes.php:151
+msgid "Team member job/position"
+msgstr ""
+
+#: ../metabox/registered-meta-boxes.php:154
+msgid "e.g. agent"
+msgstr ""
+
+#: ../metabox/registered-meta-boxes.php:162
+#: ../metabox/registered-meta-boxes.php:166
+msgid "Team member description"
+msgstr ""
+
+#: ../metabox/registered-meta-boxes.php:169
+msgid "e.g. Over 15 years of experiance"
+msgstr ""
+
+#: ../metabox/registered-meta-boxes.php:177
+msgid "Team member social icons"
+msgstr ""
+
+#: ../metabox/registered-meta-boxes.php:181
+msgid "Team member social icons code snipet"
+msgstr ""
+
+#: ../metabox/registered-meta-boxes.php:193
+msgid "Team member custom html for team page"
+msgstr ""
+
+#: ../metabox/registered-meta-boxes.php:197
+msgid "recomended for button shortcode below image in single team page"
+msgstr ""
+
+#: ../metabox/registered-meta-boxes.php:210
+#: ../metabox/registered-meta-boxes.php:214
+msgid "Team member custom html for team page left of image"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/php/blog-news-carousel.php:68
+#: ../plugins/rt-insurance-agency-theme-functions/php/team.php:61
+msgid "read more"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:20
+msgid "Page Sections"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:21
+msgid "Page Section"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:22
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:59
+msgid "Add section"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:23
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:60
+msgid "Add new section"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:24
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:61
+msgid "Edit section"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:25
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:62
+msgid "New section"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:26
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:63
+msgid "View section"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:27
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:64
+msgid "Search sections"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:28
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:65
+msgid "No sections found"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:29
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:66
+msgid "No sections found in Trash"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:57
+msgid "Page Sections2"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:58
+msgid "Page Section2"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:95
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:96
+msgid "Testimonials carousel"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:97
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:98
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:137
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:138
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:174
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:175
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:214
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:215
+msgid "Add New item"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:99
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:139
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:176
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:216
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:255
+msgid "Edit item"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:100
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:140
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:177
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:217
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:256
+msgid "New item"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:101
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:141
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:178
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:218
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:257
+msgid "View item"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:102
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:142
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:179
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:219
+msgid "Search items"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:103
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:143
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:180
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:220
+msgid "Not found"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:104
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:144
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:181
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:221
+msgid "Not found in Trash"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:135
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:136
+msgid "Business partners carousel"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:172
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:173
+msgid "Team"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:212
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:213
+msgid "Carousel2"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:251
+msgid "Gallery filter"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:252
+msgid "gallery filter"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:253
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:254
+msgid "Add New"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:258
+msgid "Search item"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:259
+msgid "No item found"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:260
+msgid "No item found in Trash"
+msgstr ""
+
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:285
+#: ../plugins/rt-insurance-agency-theme-functions/rt-insurance-agency-theme-functions.php:309
+msgid "Cagetory"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/add-shortcodes-here/config.php:8
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/add-shortcodes-here/config.php:9
+msgid "Add shorcodes here"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/add-shortcodes-here/config.php:10
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/button1/config.php:10
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/button2/config.php:10
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/circle-service-icon-center-left/config.php:10
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/circle-service-icon-center/config.php:10
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/main-headline/config.php:10
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/one-counter/config.php:10
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/config.php:10
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/config.php:10
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-one-column/config.php:10
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/config.php:10
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small1/config.php:10
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small2/config.php:10
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/config.php:10
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/config.php:10
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/config.php:10
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/config.php:10
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/config.php:10
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/config.php:10
+msgid "Content Elements"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/add-shortcodes-here/options.php:10
+msgid "Add shortcode here. Copy/paste from example below or see documentation"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/add-shortcodes-here/options.php:11
+msgid ""
+"Shortcodes list: for team shortcode is [team columns=\"3\" limit=\"-1\" "
+"order=\"DESC\"], for testimonials shortcode is [testimonials_carousel limit="
+"\"-1\" order=\"ASC\"], for complete\n"
+"list of shortcodes see documentation"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/button1/config.php:8
+msgid "Button1"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/button1/config.php:9
+msgid "Add Button1"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/button1/options.php:9
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/button2/options.php:9
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:37
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:86
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:135
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:184
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:234
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:37
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:86
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:135
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:184
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-one-column/options.php:37
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:37
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:86
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:135
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:184
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:234
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:283
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:37
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:86
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:135
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:37
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:86
+msgid "Button text"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/button1/options.php:10
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/button2/options.php:10
+msgid "This is button text label"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/button1/options.php:18
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/button2/options.php:18
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small1/options.php:37
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small2/options.php:37
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small2/options.php:71
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:37
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:71
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:104
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:37
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:71
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:104
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:137
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:37
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:71
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:104
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:137
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:170
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:37
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:71
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:104
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:137
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:170
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:203
+msgid "URL"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/button1/options.php:19
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/button2/options.php:19
+msgid "This is button URL"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/button1/options.php:26
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/button2/options.php:26
+msgid "New page opens in same or new tab"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/button1/options.php:28
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/button2/options.php:28
+msgid "Same tab"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/button1/options.php:29
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/button2/options.php:29
+msgid "New tab"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/button1/options.php:34
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/button2/options.php:34
+msgid "Button appears in left, center or right"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/button1/options.php:36
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/button2/options.php:36
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/main-headline/options.php:27
+msgid "Left"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/button1/options.php:37
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/button2/options.php:37
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/main-headline/options.php:26
+msgid "Center"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/button1/options.php:38
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/button2/options.php:38
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/main-headline/options.php:28
+msgid "Right"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/button2/config.php:8
+msgid "Button2"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/button2/config.php:9
+msgid "Add Button2"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/circle-service-icon-center-left/config.php:8
+msgid "Circle service icon left"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/circle-service-icon-center-left/config.php:9
+msgid "Add circle service icon left"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/circle-service-icon-center-left/options.php:8
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/circle-service-icon-center/options.php:8
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/main-headline/options.php:7
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-one-column/options.php:8
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small1/options.php:8
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small2/options.php:8
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:8
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:8
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:8
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:8
+msgid "Headline"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/circle-service-icon-center-left/options.php:9
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/circle-service-icon-center/options.php:9
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/main-headline/options.php:8
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small1/options.php:9
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small2/options.php:9
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:9
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:9
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:9
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:9
+msgid "This is headline text"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/circle-service-icon-center-left/options.php:15
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/circle-service-icon-center/options.php:15
+msgid "Content"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/circle-service-icon-center-left/options.php:16
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/circle-service-icon-center/options.php:16
+msgid "This is content text"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/circle-service-icon-center-left/options.php:22
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/circle-service-icon-center/options.php:22
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:23
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:72
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:121
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:170
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:220
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:23
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:72
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:121
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:170
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-one-column/options.php:23
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:23
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:72
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:121
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:170
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:220
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:269
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small1/options.php:30
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small2/options.php:30
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small2/options.php:64
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:30
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:64
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:97
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:30
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:64
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:97
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:130
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:30
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:64
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:97
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:130
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:163
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:30
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:64
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:97
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:130
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:163
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:196
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:23
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:72
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:121
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:23
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:72
+msgid "Image URL"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/circle-service-icon-center-left/options.php:23
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/circle-service-icon-center/options.php:23
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:24
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:73
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:122
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:171
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:221
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:24
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:73
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:122
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:171
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-one-column/options.php:24
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:24
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:73
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:122
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:171
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:221
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:270
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small1/options.php:31
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small2/options.php:31
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small2/options.php:65
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:31
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:65
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:98
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:31
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:65
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:98
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:131
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:31
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:65
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:98
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:131
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:164
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:31
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:65
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:98
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:131
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:164
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:197
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:24
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:73
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:122
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:24
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:73
+msgid "Add image/icon URL here"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/circle-service-icon-center/config.php:8
+msgid "Circle service icon center"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/circle-service-icon-center/config.php:9
+msgid "Add circle service icon center"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/main-headline/config.php:8
+msgid "Main Headline"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/main-headline/config.php:9
+msgid "Add a Main Headline"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/main-headline/options.php:16
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small1/options.php:15
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small2/options.php:15
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:15
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:15
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:15
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:15
+msgid "Subheadline"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/main-headline/options.php:17
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small1/options.php:16
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small2/options.php:16
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:16
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:16
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:16
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:16
+msgid "This is subheadline text"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/main-headline/options.php:24
+msgid "Headline appears in left, center or right."
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/one-counter/config.php:8
+msgid "One Counter"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/one-counter/config.php:9
+msgid "Add One Counter"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/one-counter/options.php:7
+msgid "Headline text"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/one-counter/options.php:8
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:17
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:66
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:115
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:164
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:214
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:17
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:66
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:115
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:164
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-one-column/options.php:17
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:17
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:66
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:115
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:164
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:214
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:263
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:17
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:66
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:115
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:17
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:66
+msgid "This is text"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/one-counter/options.php:14
+msgid "Number"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/one-counter/options.php:15
+msgid "Add number value here"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/config.php:8
+msgid "Service five columns"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/config.php:9
+msgid "Add service five columns"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:8
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:8
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:8
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:8
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:8
+msgid "HEADLINE FOR FIRST SERVICE"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:9
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:58
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:107
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:156
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:206
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:9
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:58
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:107
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:156
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-one-column/options.php:9
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:9
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:58
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:107
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:156
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:206
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:255
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:9
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:58
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:107
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:9
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:58
+msgid "This is headline"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:16
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:65
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:114
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:163
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:213
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:16
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:65
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:114
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:163
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-one-column/options.php:16
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:16
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:65
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:114
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:163
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:213
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:262
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:16
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:65
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:114
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:16
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:65
+msgid "Text"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:30
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:79
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:128
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:177
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:227
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:30
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:79
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:128
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:177
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-one-column/options.php:30
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:30
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:79
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:128
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:177
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:227
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:276
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:30
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:79
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:128
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:30
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:79
+msgid "Button URL"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:31
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:80
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:129
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:178
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:228
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:31
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:80
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:129
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:178
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-one-column/options.php:31
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:31
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:80
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:129
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:178
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:228
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:277
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:31
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:80
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:129
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:31
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:80
+msgid "Add button URL here"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:38
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:87
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:136
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:185
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:235
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:38
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:87
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:136
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:185
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-one-column/options.php:38
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:38
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:87
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:136
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:185
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:235
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:284
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:38
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:87
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:136
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:38
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:87
+msgid "Add button text here"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:45
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:94
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:143
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:192
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:242
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:45
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:94
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:143
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:192
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-one-column/options.php:45
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:45
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:94
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:143
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:192
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:242
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:291
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:45
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:94
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:143
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:45
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:94
+msgid "Background color"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:47
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:96
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:145
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:194
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:244
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:47
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:96
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:145
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:194
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-one-column/options.php:47
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:47
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:96
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:145
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:194
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:244
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:293
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:47
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:96
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:145
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:47
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:96
+msgid "First color"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:48
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:97
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:146
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:195
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:245
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:48
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:97
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:146
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:195
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-one-column/options.php:48
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:48
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:97
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:146
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:195
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:245
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:294
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:48
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:97
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:146
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:48
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:97
+msgid "First color 2"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:49
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:98
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:147
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:196
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:246
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:49
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:98
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:147
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:196
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-one-column/options.php:49
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:49
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:98
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:147
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:196
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:246
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:295
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:49
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:98
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:147
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:49
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:98
+msgid "First color 3"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:50
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:99
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:148
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:197
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:247
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:50
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:99
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:148
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:197
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-one-column/options.php:50
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:50
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:99
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:148
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:197
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:247
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:296
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:50
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:99
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:148
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:50
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:99
+msgid "First color 4"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:51
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:100
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:149
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:198
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:248
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:51
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:100
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:149
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:198
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-one-column/options.php:51
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:51
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:100
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:149
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:198
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:248
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:297
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:51
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:100
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:149
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:51
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:100
+msgid "First color 5"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:52
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:101
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:150
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:199
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:249
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:52
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:101
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:150
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:199
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-one-column/options.php:52
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:52
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:101
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:150
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:199
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:249
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:298
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:52
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:101
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:150
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:52
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:101
+msgid "First color 6"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:57
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:57
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:57
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:57
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/options.php:57
+msgid "HEADLINE FOR SECOND SERVICE"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:106
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:106
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:106
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/options.php:106
+msgid "HEADLINE FOR THIRD SERVICE"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:155
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/options.php:155
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:155
+msgid "HEADLINE FOR FORTH SERVICE"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-five-columns/options.php:205
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:205
+msgid "HEADLINE FOR FIFTH SERVICE"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/config.php:8
+msgid "Service four columns"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-four-columns/config.php:9
+msgid "Add service four columns"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-one-column/config.php:8
+msgid "Service one column"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-one-column/config.php:9
+msgid "Add service one column"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/config.php:8
+msgid "Service six columns"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/config.php:9
+msgid "Add service six columns"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-six-columns/options.php:254
+msgid "HEADLINE FOR SIXTH SERVICE"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small1/config.php:8
+msgid "Service small1"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small1/config.php:9
+msgid "Add service small1"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small1/options.php:22
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small2/options.php:22
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small2/options.php:56
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:22
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:56
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:89
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:22
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:56
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:89
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:122
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:22
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:56
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:89
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:122
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:155
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:22
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:56
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:89
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:122
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:155
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:188
+msgid "Icon headline"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small1/options.php:23
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small2/options.php:23
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small2/options.php:57
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:23
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:57
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:90
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:23
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:57
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:90
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:123
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:23
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:57
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:90
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:123
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:156
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:23
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:57
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:90
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:123
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:156
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:189
+msgid "This is iconheadline"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small1/options.php:38
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small2/options.php:38
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small2/options.php:72
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:38
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:72
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:105
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:38
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:72
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:105
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:138
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:38
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:72
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:105
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:138
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:171
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:38
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:72
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:105
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:138
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:171
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:204
+msgid "Add URL here"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small1/options.php:44
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small1/options.php:49
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small2/options.php:44
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small2/options.php:49
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small2/options.php:78
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small2/options.php:83
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:44
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:49
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:78
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:83
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:111
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:116
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:44
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:49
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:78
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:83
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:111
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:116
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:144
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:149
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:44
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:49
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:78
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:83
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:111
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:116
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:144
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:149
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:177
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:182
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:44
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:49
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:78
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:83
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:111
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:116
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:144
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:149
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:177
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:182
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:210
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:215
+msgid "Current service"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small1/options.php:45
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small2/options.php:45
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small2/options.php:79
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:45
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:79
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:112
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:45
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:79
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:112
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:145
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:45
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:79
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:112
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:145
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:178
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:45
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:79
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:112
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:145
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:178
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:211
+msgid "Choose is it current service"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small1/options.php:48
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small2/options.php:48
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small2/options.php:82
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:48
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:82
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/options.php:115
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:48
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:82
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:115
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/options.php:148
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:48
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:82
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:115
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:148
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/options.php:181
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:48
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:82
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:115
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:148
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:181
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/options.php:214
+msgid "Not current service"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small2/config.php:8
+msgid "Service small2"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small2/config.php:9
+msgid "Add service small2"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/config.php:8
+msgid "Service small3"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small3/config.php:9
+msgid "Add service small3"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/config.php:8
+msgid "Service small4"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small4/config.php:9
+msgid "Add service small4"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/config.php:8
+msgid "Service small5"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small5/config.php:9
+msgid "Add service small5"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/config.php:8
+msgid "Service small6"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-small6/config.php:9
+msgid "Add service small6"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/config.php:8
+msgid "Service three columns"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-three-columns/config.php:9
+msgid "Add service three columns"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/config.php:8
+msgid "Service two columns"
+msgstr ""
+
+#: ../plugins/rt-unyson-framework-customizations/extensions/shortcodes/shortcodes/service-two-columns/config.php:9
+msgid "Add service two columns"
+msgstr ""
+
+#: ../search.php:16
+#, php-format
+msgid "Search Results For: %s"
+msgstr ""
+
+#: ../single.php:38
+msgid "Pages:"
+msgstr ""
+
+#: ../tag.php:16
+#, php-format
+msgid "Category Tag: %s"
+msgstr ""

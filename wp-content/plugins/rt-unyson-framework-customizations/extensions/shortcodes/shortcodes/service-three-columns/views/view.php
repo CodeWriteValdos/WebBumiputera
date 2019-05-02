@@ -1,0 +1,46 @@
+<?php if (!defined('FW')) die( 'Forbidden' ); ?>
+<div class="services">
+  <div class="one-service one-service-column4 <?php echo $atts['color']?>">
+    <ul>
+      <li>
+        <img src="<?php echo $atts['imgurl']?>">    
+        <h3><?php echo $atts['headline']?></h3> 
+      <ul>
+        <li>
+          <p><?php echo $atts['content']?></p>
+          <a href="<?php echo $atts['buttonurl']?>"><?php echo $atts['buttontext']?> <i class="fa fa-angle-right"></i></a>
+        </li> 
+      </ul> 
+      </li> 
+    </ul>
+  </div>
+  <div class="one-service one-service-column4 <?php echo $atts['color2']?>">
+    <ul>
+      <li>
+        <img src="<?php echo $atts['imgurl2']?>">    
+        <h3><?php echo $atts['headline2']?></h3> 
+      <ul>
+        <li>
+          <p><?php echo $atts['content2']?></p>
+          <a href="<?php echo $atts['buttonurl2']?>"><?php echo $atts['buttontext2']?> <i class="fa fa-angle-right"></i></a>
+        </li> 
+      </ul> 
+      </li> 
+    </ul>
+  </div>
+  <div class="one-service one-service-column4 <?php echo $atts['color3']?>">
+    <ul>
+      <li>
+        <img src="<?php echo $atts['imgurl3']?>">    
+        <h3><?php echo $atts['headline3']?></h3> 
+      <ul>
+        <li>
+          <p><?php echo $atts['content3']?></p>
+          <a href="<?php echo $atts['buttonurl3']?>"><?php echo $atts['buttontext3']?> <i class="fa fa-angle-right"></i></a>
+        </li> 
+      </ul> 
+      </li> 
+    </ul>
+  </div>
+</div>
+
